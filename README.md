@@ -38,7 +38,7 @@ sweatpants.add_item(sweatpants.name, sweatpants.material, 6)
 current_stock = polo.Stock_by_Material("Cotton")
 print(current stock)
 
-# Practice with code reuse
+# practice with code reuse
 class Animal:
   name = ""
   category = ""
